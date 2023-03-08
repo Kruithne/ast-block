@@ -9,7 +9,9 @@
   },
   "dependencies": {
     "@githubnext/blocks": "^2.3.5",
+    "acorn": "^8.8.2",
     "react": "^18.1.0",
-    "react-dom": "^18.1.0"
+    "react-dom": "^18.1.0",
+    "twind": "^0.16.19"
   }
 }
