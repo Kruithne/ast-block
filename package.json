@@ -1,5 +1,5 @@
 {
-  "name": "custom-block-template",
+  "name": "ast-block",
   "version": "1.0.0",
   "license": "MIT",
   "scripts": {
